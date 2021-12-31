@@ -1,0 +1,6 @@
+{
+    "files.autoSaveDelay": 500,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "terminal.integrated.cursorStyle": "line"
+}
